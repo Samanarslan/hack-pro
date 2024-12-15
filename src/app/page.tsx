@@ -296,7 +296,6 @@ export default function Home() {
           </button>
         </Link>
       </section>
-      <Footer></Footer>
     </div>
   );
 }
